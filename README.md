@@ -1,4 +1,4 @@
-# neural-network-project
+# Neural-Network-Project
 This project using Artificial Neural Network (ANN) for "Image Prediction" using Python language.
 
 This is image data of Natural Scenes around the world, contains around 25000 images under 4 categories: Building, Forest, Mountain, Sea.
