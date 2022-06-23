@@ -9,8 +9,7 @@ Deep learning is a subset of machine learning concerned with the emulation of hu
 ![image](https://user-images.githubusercontent.com/95705198/175430118-301a7aa4-a0b0-4a4f-8be1-d7774deaa462.png)
 
 # Quick review Neural Network
-A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
-Neural networks can adapt to changing input; so, the network generates the best possible result without needing to redesign the output criteria.
+- A neural network is a series of algorithms that endeavors to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates.
+- Neural networks can adapt to changing input; so, the network generates the best possible result without needing to redesign the output criteria.
 
-
-![image](https://user-images.githubusercontent.com/95705198/175430208-826c9bf9-574d-4384-b528-2fddf7a129dc.png)
+<img width="496" alt="Screenshot 2022-06-24 at 01 20 08" src="https://user-images.githubusercontent.com/95705198/175430557-d50d57d4-49f3-4b94-9d74-117f4f68d9cc.png">
